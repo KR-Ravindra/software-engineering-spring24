@@ -1,0 +1,41 @@
+/* App.css */
+
+.kanban-board {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0d1117;
+  color: white;
+  height: 100vh;
+  padding: 20px;
+}
+
+.kanban-column {
+  flex: 1;
+  margin: 0 10px;
+  padding: 20px;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  background-color: #161b22;
+}
+
+.task-item {
+  background-color: #979393; /* Light gray background */
+  border: 1px solid #ddd; /* Gray border */
+  padding: 10px; /* Some padding */
+  margin-bottom: 10px; /* Space between tasks */
+  border-radius: 5px; /* Rounded corners */
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #58a6ff;
+}
+
+.kanban-item {
+  background-color: #30363d;
+  border-radius: 6px;
+  margin: 10px 0;
+  padding: 10px;
+}
