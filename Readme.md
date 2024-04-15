@@ -16,8 +16,10 @@
 2. Run Backend
    - open terminal in your project folder
    - `cd backend`
-   - `pip install -r requirements.txt`   > `pip3 install -r requirements.txt` for mac users
-   - `python api.py`  > `python3 install -r requirements.txt` for mac users
+   - `pip install -r requirements.txt`
+     > `pip3 install -r requirements.txt` for mac users
+   - `python api.py`
+     > `python3 install -r requirements.txt` for mac users
    - Your api is now ready at `localhost:8080`
 
 3. Run Database
