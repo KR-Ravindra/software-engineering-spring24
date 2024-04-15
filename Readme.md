@@ -16,7 +16,6 @@
 2. Run Backend
    - open terminal in your project folder
    - `cd backend`
-   - `source .env/bin/activate`
    - `pip install -r requirements.txt`   > `pip3 install -r requirements.txt` for mac users
    - `python api.py`  > `python3 install -r requirements.txt` for mac users
    - Your api is now ready at `localhost:8080`
