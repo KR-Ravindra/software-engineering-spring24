@@ -29,4 +29,6 @@
 
 	`db.grantRolesToUser('root', [{ role: 'root', db: 'admin' }])`
 
+![](./mongo.png)
+![](./mongoshell.png)
 
