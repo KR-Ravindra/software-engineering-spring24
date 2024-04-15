@@ -11,7 +11,7 @@
    - `cd frontend`
    - `npm i`
    - `npm start`
-   Your frontend is now running on (localhost:3000)[localhost:3000]
+   Your frontend is now running on [localhost:3000](http://localhost:3000)
 
 2. Run Backend
    - open terminal in your project folder
@@ -20,7 +20,7 @@
      > `pip3 install -r requirements.txt` for mac users
    - `python api.py`
      > `python3 install -r requirements.txt` for mac users
-   - Your api is now ready at (localhost:8080)[localhost:8080]
+   - Your api is now ready at [localhost:8080](http://localhost:8080)
 
 3. Run Database
    - Make sure Docker Desktop is started and minimised. Then on your terminal
