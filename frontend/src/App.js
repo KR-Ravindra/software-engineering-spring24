@@ -26,6 +26,7 @@ function App() {
       })
       .catch(error => {
         console.error('Error:', error);
+       setLoading(false);
       });
   }, []);
 
